@@ -9,7 +9,7 @@ My work focuses on first-person video, long-context understanding, multimodal po
 - Researching multimodal agents for smart glasses, with a focus on egocentric and long-video understanding.
 - Building multimodal models and post-training setups for instruction following, reasoning, and real-time contextual assistance.
 - Working across the full research stack: benchmark design, distributed training, evaluation, low-latency inference, and deployment-facing integration.
-- Sharing papers, code, and curated resources through projects such as [awesome-grounding](https://github.com/TheShadow29/awesome-grounding), [VidSitu](https://github.com/TheShadow29/VidSitu), and [Video-QAP](https://github.com/TheShadow29/Video-QAP).
+- I enjoy reading the latest papers and articles on LLMs, VLMs, instruction following, reasoning, and agentic workflows.
 
 ## Connect
 
