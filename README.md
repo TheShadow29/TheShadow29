@@ -1,14 +1,14 @@
 # Arka Sadhu
 
-Senior Research Scientist on the Surreal team at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on grounded video understanding for egocentric and long videos, multimodal reasoning, and vision-language research.
+Senior Research Scientist on the Surreal team at [Meta Reality Labs](https://about.meta.com/realitylabs/), working on multimodal agents for smart glasses, egocentric and long-video understanding, and vision-language research.
 
-My work focuses on grounding language in visual data, especially first-person video, long-video understanding, and multimodal systems for richer visual reasoning. More at [theshadow29.github.io](https://theshadow29.github.io/).
+My work focuses on first-person video, long-context understanding, multimodal post-training, and research systems for real-time contextual assistance. More at [theshadow29.github.io](https://theshadow29.github.io/).
 
 ## What I'm Doing
 
-- Researching grounded video understanding for egocentric and long videos on the Surreal team at Meta Reality Labs.
-- Building multimodal models and evaluation setups for first-person video, visual grounding, and structured visual reasoning.
-- Exploring long-video understanding, streaming multimodal systems, and research tools that make these models more usable.
+- Researching multimodal agents for smart glasses, with a focus on egocentric and long-video understanding.
+- Building multimodal models and post-training setups for instruction following, reasoning, and real-time contextual assistance.
+- Working across the full research stack: benchmark design, distributed training, evaluation, low-latency inference, and deployment-facing integration.
 - Sharing papers, code, and curated resources through projects such as [awesome-grounding](https://github.com/TheShadow29/awesome-grounding), [VidSitu](https://github.com/TheShadow29/VidSitu), and [Video-QAP](https://github.com/TheShadow29/Video-QAP).
 
 ## Connect
